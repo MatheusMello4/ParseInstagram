@@ -57,7 +57,8 @@ Describe any challenges encountered while building the app.
     limitations under the License.
     
     
-   - 
+ 
+ # Project 4 - Parse Instagram 2
 
 ParseInstagram2 is a photo sharing app similar to Instagram but using Parse as its backend.
 
